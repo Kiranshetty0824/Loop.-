@@ -1,0 +1,8 @@
+{
+  "name": "SaveLoop",
+  "description": "AI-Powered Coupon Wallet & Savings Assistant. Finds and organizes your coupons, warns you at checkout, and uses Gemini to optimize your discounts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
